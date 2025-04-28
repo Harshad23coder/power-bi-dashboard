@@ -6,7 +6,7 @@ Sure! Here’s a **full README.md** you can directly use for GitHub:
 
 # HR Analytics Dashboard
 
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)  
+ 
 
 ## Overview
 **HR PROJECT COMPLETE** is an interactive HR Analytics dashboard built using Power BI.  
